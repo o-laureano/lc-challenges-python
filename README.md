@@ -13,4 +13,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 
 ## Salvando alteracões no git
 
-\*comando git push lal UAU
+\*comando git push lal UAU malandrasso
